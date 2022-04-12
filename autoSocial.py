@@ -24,6 +24,7 @@ def start_rec():
     time.sleep(1)
     pyautogui.keyUp('r')
     print('Up now')
+    print('testing')
 
 def stop_rec():
     time.sleep(20)
